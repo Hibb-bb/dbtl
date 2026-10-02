@@ -1,0 +1,6843 @@
+{
+ "candidates": [
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "W",
+    "res160": "K",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-000",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "R",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-001",
+   "measured": {
+    "activity": 0.5278
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "K",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-002",
+   "measured": {
+    "activity": 0.0897
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "E",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-003",
+   "measured": {
+    "activity": 0.1871
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "L",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-004",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "S",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-005",
+   "measured": {
+    "activity": 0.0919
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "W",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-006",
+   "measured": {
+    "activity": 0.0758
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "S",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-007",
+   "measured": {
+    "activity": 0.0922
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "K",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-008",
+   "measured": {
+    "activity": 0.176
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "G",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-009",
+   "measured": {
+    "activity": 0.1157
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "G",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-010",
+   "measured": {
+    "activity": 0.428
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-011",
+   "measured": {
+    "activity": 0.0358
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "T",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-012",
+   "measured": {
+    "activity": 0.0349
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "N",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-013",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "K",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-014",
+   "measured": {
+    "activity": 0.0214
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "G",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-015",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "G",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-016",
+   "measured": {
+    "activity": 0.0973
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "L",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-017",
+   "measured": {
+    "activity": 0.9271
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "S",
+    "res160": "E",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-018",
+   "measured": {
+    "activity": 0.0108
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "D",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-019",
+   "measured": {
+    "activity": 0.8221
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "T",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-020",
+   "measured": {
+    "activity": 0.7889
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "F",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-021",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "A",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-022",
+   "measured": {
+    "activity": 0.9739
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "E",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-023",
+   "measured": {
+    "activity": 0.2807
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "G",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-024",
+   "measured": {
+    "activity": 0.5835
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "D",
+    "res160": "K",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-025",
+   "measured": {
+    "activity": 0.1994
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "I",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-026",
+   "measured": {
+    "activity": 0.8515
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "T",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-027",
+   "measured": {
+    "activity": 0.4823
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "V",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-028",
+   "measured": {
+    "activity": 0.9012
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "I",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-029",
+   "measured": {
+    "activity": 0.9691
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "F",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-030",
+   "measured": {
+    "activity": 0.2837
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "A",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-031",
+   "measured": {
+    "activity": 0.6714
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "L",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-032",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "K",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-033",
+   "measured": {
+    "activity": 0.7652
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "S",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-034",
+   "measured": {
+    "activity": 0.2827
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "N",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-035",
+   "measured": {
+    "activity": 0.0246
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "K",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-036",
+   "measured": {
+    "activity": 0.2964
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "I",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-037",
+   "measured": {
+    "activity": 0.1924
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "V",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-038",
+   "measured": {
+    "activity": 0.4168
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "T",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-039",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "D",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-040",
+   "measured": {
+    "activity": 0.2486
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "W",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-041",
+   "measured": {
+    "activity": 0.7171
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "A",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-042",
+   "measured": {
+    "activity": 0.2721
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "L",
+    "res160": "E",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-043",
+   "measured": {
+    "activity": 0.2439
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "T",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-044",
+   "measured": {
+    "activity": 0.024
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-045",
+   "measured": {
+    "activity": 0.0861
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "L",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-046",
+   "measured": {
+    "activity": 0.3555
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "S",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-047",
+   "measured": {
+    "activity": 0.9219
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "A",
+    "res160": "E",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-048",
+   "measured": {
+    "activity": 0.0811
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "V",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-049",
+   "measured": {
+    "activity": 0.3712
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-050",
+   "measured": {
+    "activity": 0.9159
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "I",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-051",
+   "measured": {
+    "activity": 0.9319
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "N",
+    "res160": "L",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-052",
+   "measured": {
+    "activity": 0.0062
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "T",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-053",
+   "measured": {
+    "activity": 0.0225
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "E",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-054",
+   "measured": {
+    "activity": 0.1727
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "L",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-055",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "L",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-056",
+   "measured": {
+    "activity": 0.9819
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "N",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-057",
+   "measured": {
+    "activity": 0.3423
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "W",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-058",
+   "measured": {
+    "activity": 0.9793
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "F",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-059",
+   "measured": {
+    "activity": 0.0708
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "K",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-060",
+   "measured": {
+    "activity": 0.29
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "S",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-061",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "I",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-062",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "W",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-063",
+   "measured": {
+    "activity": 0.7341
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "S",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-064",
+   "measured": {
+    "activity": 0.9446
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "W",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-065",
+   "measured": {
+    "activity": 0.9629
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "A",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-066",
+   "measured": {
+    "activity": 0.8829
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 1,
+    "net_charge": -1,
+    "res112": "A",
+    "res160": "A",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-067",
+   "measured": {
+    "activity": 0.0652
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "L",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-068",
+   "measured": {
+    "activity": 0.9107
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "W",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-069",
+   "measured": {
+    "activity": 0.0354
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "S",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-070",
+   "measured": {
+    "activity": 0.0142
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "F",
+    "res160": "R",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-071",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "S",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-072",
+   "measured": {
+    "activity": 0.2598
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "I",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-073",
+   "measured": {
+    "activity": 0.9812
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "G",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-074",
+   "measured": {
+    "activity": 0.1011
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "G",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-075",
+   "measured": {
+    "activity": 0.0543
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "I",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-076",
+   "measured": {
+    "activity": 0.3889
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "W",
+    "res160": "F",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-077",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "V",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-078",
+   "measured": {
+    "activity": 0.4591
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "S",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-079",
+   "measured": {
+    "activity": 0.0635
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "A",
+    "res160": "D",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-080",
+   "measured": {
+    "activity": 0.8902
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "T",
+    "res160": "D",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-081",
+   "measured": {
+    "activity": 0.7575
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "V",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-082",
+   "measured": {
+    "activity": 0.3769
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "D",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-083",
+   "measured": {
+    "activity": 0.1749
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "F",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-084",
+   "measured": {
+    "activity": 0.3494
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "V",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-085",
+   "measured": {
+    "activity": 0.9656
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "N",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-086",
+   "measured": {
+    "activity": 0.0258
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "N",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-087",
+   "measured": {
+    "activity": 0.0259
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "T",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-088",
+   "measured": {
+    "activity": 0.1056
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "E",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-089",
+   "measured": {
+    "activity": 0.2483
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-090",
+   "measured": {
+    "activity": 0.9475
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "W",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-091",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "N",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-092",
+   "measured": {
+    "activity": 0.5727
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "E",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-093",
+   "measured": {
+    "activity": 0.1336
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "I",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-094",
+   "measured": {
+    "activity": 0.1249
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "N",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-095",
+   "measured": {
+    "activity": 0.8054
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "D",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-096",
+   "measured": {
+    "activity": 0.0742
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "G",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-097",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "L",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-098",
+   "measured": {
+    "activity": 0.4631
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "G",
+    "res160": "R",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-099",
+   "measured": {
+    "activity": 0.0114
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "D",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-100",
+   "measured": {
+    "activity": 0.1891
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "K",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-101",
+   "measured": {
+    "activity": 0.1968
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "D",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-102",
+   "measured": {
+    "activity": 0.8859
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "T",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-103",
+   "measured": {
+    "activity": 0.0424
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "K",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-104",
+   "measured": {
+    "activity": 0.9765
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "A",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-105",
+   "measured": {
+    "activity": 0.3592
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "D",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-106",
+   "measured": {
+    "activity": 0.026
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "G",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-107",
+   "measured": {
+    "activity": 0.0492
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "W",
+    "res160": "K",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-108",
+   "measured": {
+    "activity": 0.9778
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "S",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-109",
+   "measured": {
+    "activity": 0.2903
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "L",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-110",
+   "measured": {
+    "activity": 0.0249
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "V",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-111",
+   "measured": {
+    "activity": 0.0424
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "L",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-112",
+   "measured": {
+    "activity": 0.1337
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "E",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-113",
+   "measured": {
+    "activity": 0.856
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "K",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-114",
+   "measured": {
+    "activity": 0.842
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "W",
+    "res160": "L",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-115",
+   "measured": {
+    "activity": 0.0361
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "T",
+    "res160": "E",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-116",
+   "measured": {
+    "activity": 0.8945
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "D",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-117",
+   "measured": {
+    "activity": 0.8744
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "G",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-118",
+   "measured": {
+    "activity": 0.0952
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "T",
+    "res160": "E",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-119",
+   "measured": {
+    "activity": 0.7747
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "T",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-120",
+   "measured": {
+    "activity": 0.4283
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "V",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-121",
+   "measured": {
+    "activity": 0.0221
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "G",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-122",
+   "measured": {
+    "activity": 0.0221
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "N",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-123",
+   "measured": {
+    "activity": 0.3578
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "K",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-124",
+   "measured": {
+    "activity": 0.9647
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "L",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-125",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "E",
+    "res160": "S",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-126",
+   "measured": {
+    "activity": 0.0078
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "W",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-127",
+   "measured": {
+    "activity": 0.0444
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "S",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-128",
+   "measured": {
+    "activity": 0.1263
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "F",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-129",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "A",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-130",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "G",
+    "res160": "I",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-131",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "S",
+    "res160": "R",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-132",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-133",
+   "measured": {
+    "activity": 0.058
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "L",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-134",
+   "measured": {
+    "activity": 0.9125
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "T",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-135",
+   "measured": {
+    "activity": 0.3115
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "S",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-136",
+   "measured": {
+    "activity": 0.7364
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "L",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-137",
+   "measured": {
+    "activity": 0.4139
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "F",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-138",
+   "measured": {
+    "activity": 0.7458
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "D",
+    "res160": "G",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-139",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "V",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-140",
+   "measured": {
+    "activity": 0.0245
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "G",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-141",
+   "measured": {
+    "activity": 0.4912
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "S",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-142",
+   "measured": {
+    "activity": 0.4863
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "I",
+    "res160": "E",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-143",
+   "measured": {
+    "activity": 0.0041
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "A",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-144",
+   "measured": {
+    "activity": 0.049
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "F",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-145",
+   "measured": {
+    "activity": 0.0812
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "G",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-146",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "S",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-147",
+   "measured": {
+    "activity": 0.3559
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "E",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-148",
+   "measured": {
+    "activity": 0.0084
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "W",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-149",
+   "measured": {
+    "activity": 0.1131
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "N",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-150",
+   "measured": {
+    "activity": 0.7494
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "K",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-151",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "R",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-152",
+   "measured": {
+    "activity": 0.1471
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "N",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-153",
+   "measured": {
+    "activity": 0.034
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "T",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-154",
+   "measured": {
+    "activity": 0.0665
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "S",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-155",
+   "measured": {
+    "activity": 0.6836
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "S",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-156",
+   "measured": {
+    "activity": 0.2386
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "K",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-157",
+   "measured": {
+    "activity": 0.913
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "V",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-158",
+   "measured": {
+    "activity": 0.9913
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "S",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-159",
+   "measured": {
+    "activity": 0.7428
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "I",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-160",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "G",
+    "res160": "W",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-161",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "G",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-162",
+   "measured": {
+    "activity": 0.8273
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "E",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-163",
+   "measured": {
+    "activity": 0.225
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "F",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-164",
+   "measured": {
+    "activity": 0.7851
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "D",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-165",
+   "measured": {
+    "activity": 0.2167
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "G",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-166",
+   "measured": {
+    "activity": 0.0807
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "N",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-167",
+   "measured": {
+    "activity": 0.098
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "I",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-168",
+   "measured": {
+    "activity": 0.0357
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "L",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-169",
+   "measured": {
+    "activity": 0.0454
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "N",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-170",
+   "measured": {
+    "activity": 0.0553
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "W",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-171",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "G",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-172",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "G",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-173",
+   "measured": {
+    "activity": 0.8663
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "E",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-174",
+   "measured": {
+    "activity": 0.0707
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "L",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-175",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "G",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-176",
+   "measured": {
+    "activity": 0.0389
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "A",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-177",
+   "measured": {
+    "activity": 0.5161
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "I",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-178",
+   "measured": {
+    "activity": 0.3839
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "N",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-179",
+   "measured": {
+    "activity": 0.013
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "T",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-180",
+   "measured": {
+    "activity": 0.9575
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "S",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-181",
+   "measured": {
+    "activity": 0.0421
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "K",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-182",
+   "measured": {
+    "activity": 0.279
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "W",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-183",
+   "measured": {
+    "activity": 0.022
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "N",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-184",
+   "measured": {
+    "activity": 0.0993
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "R",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-185",
+   "measured": {
+    "activity": 0.6713
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "E",
+    "res160": "R",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-186",
+   "measured": {
+    "activity": 0.0449
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "R",
+    "res160": "E",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-187",
+   "measured": {
+    "activity": 0.0562
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "V",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-188",
+   "measured": {
+    "activity": 0.9834
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "L",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-189",
+   "measured": {
+    "activity": 0.8837
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "G",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-190",
+   "measured": {
+    "activity": 0.0719
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "F",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-191",
+   "measured": {
+    "activity": 0.9289
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "F",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-192",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -2,
+    "res112": "A",
+    "res160": "E",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-193",
+   "measured": {
+    "activity": 0.0488
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "F",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-194",
+   "measured": {
+    "activity": 0.9304
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-195",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "G",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-196",
+   "measured": {
+    "activity": 0.2914
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-197",
+   "measured": {
+    "activity": 0.9102
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "N",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-198",
+   "measured": {
+    "activity": 0.1121
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "V",
+    "res160": "K",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-199",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "F",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-200",
+   "measured": {
+    "activity": 0.2515
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "T",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-201",
+   "measured": {
+    "activity": 0.3524
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "A",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-202",
+   "measured": {
+    "activity": 0.0072
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "I",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-203",
+   "measured": {
+    "activity": 0.9517
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "V",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-204",
+   "measured": {
+    "activity": 0.9477
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "G",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-205",
+   "measured": {
+    "activity": 0.1184
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "S",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-206",
+   "measured": {
+    "activity": 0.0995
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "N",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-207",
+   "measured": {
+    "activity": 0.1518
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "N",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-208",
+   "measured": {
+    "activity": 0.3989
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "L",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-209",
+   "measured": {
+    "activity": 0.9781
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "R",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-210",
+   "measured": {
+    "activity": 0.6534
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "G",
+    "res160": "K",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-211",
+   "measured": {
+    "activity": 0.2627
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "R",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-212",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "K",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-213",
+   "measured": {
+    "activity": 0.1913
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "A",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-214",
+   "measured": {
+    "activity": 0.9321
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "V",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-215",
+   "measured": {
+    "activity": 0.1292
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "F",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-216",
+   "measured": {
+    "activity": 0.8985
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "V",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-217",
+   "measured": {
+    "activity": 0.402
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "L",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-218",
+   "measured": {
+    "activity": 0.8785
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "T",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-219",
+   "measured": {
+    "activity": 0.0025
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "N",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-220",
+   "measured": {
+    "activity": 0.0024
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "L",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-221",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "L",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-222",
+   "measured": {
+    "activity": 0.0431
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "W",
+    "res160": "K",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-223",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "S",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-224",
+   "measured": {
+    "activity": 0.8661
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "I",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-225",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "G",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-226",
+   "measured": {
+    "activity": 0.7303
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "G",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-227",
+   "measured": {
+    "activity": 0.1383
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "S",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-228",
+   "measured": {
+    "activity": 0.8322
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "E",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-229",
+   "measured": {
+    "activity": 0.0876
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "A",
+    "res160": "R",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-230",
+   "measured": {
+    "activity": 0.939
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "E",
+    "res160": "R",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-231",
+   "measured": {
+    "activity": 0.621
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "S",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-232",
+   "measured": {
+    "activity": 0.7003
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "W",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-233",
+   "measured": {
+    "activity": 0.8471
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "N",
+    "res160": "D",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-234",
+   "measured": {
+    "activity": 0.9004
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "I",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-235",
+   "measured": {
+    "activity": 0.0297
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-236",
+   "measured": {
+    "activity": 0.0039
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -1.0,
+    "n_mutations": 2,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "A",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-237",
+   "measured": {
+    "activity": 0.0284
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "G",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-238",
+   "measured": {
+    "activity": 0.251
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "W",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-239",
+   "measured": {
+    "activity": 0.2136
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "D",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-240",
+   "measured": {
+    "activity": 0.8883
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-241",
+   "measured": {
+    "activity": 0.6859
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "D",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-242",
+   "measured": {
+    "activity": 0.0044
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-243",
+   "measured": {
+    "activity": 0.8771
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "N",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-244",
+   "measured": {
+    "activity": 0.1411
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-245",
+   "measured": {
+    "activity": 0.0681
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "I",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-246",
+   "measured": {
+    "activity": 0.6042
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "G",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-247",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "N",
+    "res160": "K",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-248",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "W",
+    "res160": "N",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-249",
+   "measured": {
+    "activity": 0.0764
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "A",
+    "res160": "D",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-250",
+   "measured": {
+    "activity": 0.7414
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "T",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-251",
+   "measured": {
+    "activity": 0.336
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "D",
+    "res160": "W",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-252",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "V",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-253",
+   "measured": {
+    "activity": 0.8426
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "N",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-254",
+   "measured": {
+    "activity": 0.0294
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "L",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-255",
+   "measured": {
+    "activity": 0.0441
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "L",
+    "res160": "E",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-256",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "L",
+    "res160": "D",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-257",
+   "measured": {
+    "activity": 0.197
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "L",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-258",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "S",
+    "res160": "D",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-259",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "N",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-260",
+   "measured": {
+    "activity": 0.9476
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "V",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-261",
+   "measured": {
+    "activity": 0.1689
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "V",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-262",
+   "measured": {
+    "activity": 0.3176
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "D",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-263",
+   "measured": {
+    "activity": 0.0878
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "A",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-264",
+   "measured": {
+    "activity": 0.9118
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-265",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "L",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-266",
+   "measured": {
+    "activity": 0.3714
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "G",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-267",
+   "measured": {
+    "activity": 0.7629
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "L",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-268",
+   "measured": {
+    "activity": 0.7943
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "T",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-269",
+   "measured": {
+    "activity": 0.9689
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "G",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-270",
+   "measured": {
+    "activity": 0.1394
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "I",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-271",
+   "measured": {
+    "activity": 0.1877
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "N",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-272",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "A",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-273",
+   "measured": {
+    "activity": 0.021
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "E",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-274",
+   "measured": {
+    "activity": 0.901
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "T",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-275",
+   "measured": {
+    "activity": 0.9143
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "V",
+    "res160": "W",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-276",
+   "measured": {
+    "activity": 0.0175
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "R",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-277",
+   "measured": {
+    "activity": 0.9122
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "W",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-278",
+   "measured": {
+    "activity": 0.1419
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "S",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-279",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "R",
+    "res160": "D",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-280",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "T",
+    "res160": "S",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-281",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "D",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-282",
+   "measured": {
+    "activity": 0.1446
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "I",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-283",
+   "measured": {
+    "activity": 0.3802
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "D",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-284",
+   "measured": {
+    "activity": 0.5892
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "K",
+    "res160": "K",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-285",
+   "measured": {
+    "activity": 0.9219
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "W",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-286",
+   "measured": {
+    "activity": 0.92
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "A",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-287",
+   "measured": {
+    "activity": 0.3558
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "F",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-288",
+   "measured": {
+    "activity": 0.8686
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "R",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-289",
+   "measured": {
+    "activity": 0.9781
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "R",
+    "res160": "A",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-290",
+   "measured": {
+    "activity": 0.0751
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "L",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-291",
+   "measured": {
+    "activity": 0.9948
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "L",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-292",
+   "measured": {
+    "activity": 0.447
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "V",
+    "res160": "E",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-293",
+   "measured": {
+    "activity": 0.6735
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "G",
+    "res160": "A",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-294",
+   "measured": {
+    "activity": 0.0265
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "S",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-295",
+   "measured": {
+    "activity": 0.0141
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-296",
+   "measured": {
+    "activity": 0.0167
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "V",
+    "res160": "R",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-297",
+   "measured": {
+    "activity": 0.0128
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "L",
+    "res160": "E",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-298",
+   "measured": {
+    "activity": 0.7042
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "I",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-299",
+   "measured": {
+    "activity": 0.3793
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "V",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-300",
+   "measured": {
+    "activity": 0.9187
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "V",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-301",
+   "measured": {
+    "activity": 0.019
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "T",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-302",
+   "measured": {
+    "activity": 0.9415
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "L",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-303",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "A",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-304",
+   "measured": {
+    "activity": 0.8727
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "W",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 1.0
+   },
+   "id": "C-305",
+   "measured": {
+    "activity": 0.9032
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "K",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-306",
+   "measured": {
+    "activity": 0.9804
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "N",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-307",
+   "measured": {
+    "activity": 0.3816
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "K",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-308",
+   "measured": {
+    "activity": 0.9732
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "W",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-309",
+   "measured": {
+    "activity": 0.0559
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "W",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-310",
+   "measured": {
+    "activity": 0.1145
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "T",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-311",
+   "measured": {
+    "activity": 0.033
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 2,
+    "net_charge": 2,
+    "res112": "A",
+    "res160": "K",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-312",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "S",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-313",
+   "measured": {
+    "activity": 0.0894
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "E",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-314",
+   "measured": {
+    "activity": 0.873
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "I",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-315",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "N",
+    "res160": "D",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-316",
+   "measured": {
+    "activity": 0.246
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "A",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-317",
+   "measured": {
+    "activity": 0.3549
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "T",
+    "res160": "D",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-318",
+   "measured": {
+    "activity": 0.932
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 1,
+    "net_charge": 1,
+    "res112": "A",
+    "res160": "A",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-319",
+   "measured": {
+    "activity": 0.0348
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "S",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-320",
+   "measured": {
+    "activity": 0.831
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "D",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-321",
+   "measured": {
+    "activity": 0.051
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "G",
+    "res160": "R",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-322",
+   "measured": {
+    "activity": 0.0095
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "S",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-323",
+   "measured": {
+    "activity": 0.1286
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "A",
+    "res160": "S",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-324",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "S",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-325",
+   "measured": {
+    "activity": 0.7128
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "L",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-326",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "S",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-327",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-328",
+   "measured": {
+    "activity": 0.0777
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "N",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-329",
+   "measured": {
+    "activity": 0.4561
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "L",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-330",
+   "measured": {
+    "activity": 0.9818
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "K",
+    "res160": "E",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-331",
+   "measured": {
+    "activity": 0.2904
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "F",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.8
+   },
+   "id": "C-332",
+   "measured": {
+    "activity": 0.9754
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "I",
+    "res160": "D",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-333",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "D",
+    "res160": "F",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-334",
+   "measured": {
+    "activity": 0.0333
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "R",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-335",
+   "measured": {
+    "activity": 0.0645
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "T",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-336",
+   "measured": {
+    "activity": 0.0236
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "N",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-337",
+   "measured": {
+    "activity": 0.4154
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "N",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-338",
+   "measured": {
+    "activity": 0.0412
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "F",
+    "res160": "G",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-339",
+   "measured": {
+    "activity": 0.8314
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "D",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-340",
+   "measured": {
+    "activity": 0.8639
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "N",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-341",
+   "measured": {
+    "activity": 0.0871
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "A",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-342",
+   "measured": {
+    "activity": 0.8924
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "L",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-343",
+   "measured": {
+    "activity": 0.5195
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "D",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-344",
+   "measured": {
+    "activity": 0.3123
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "A",
+    "res160": "K",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-345",
+   "measured": {
+    "activity": 0.3149
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "W",
+    "res160": "T",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-346",
+   "measured": {
+    "activity": 0.8435
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "S",
+    "res160": "I",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-347",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 1.0,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "R",
+    "res47": "I",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-348",
+   "measured": {
+    "activity": 1.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.8666666666666667,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "G",
+    "res47": "K",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-349",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "K",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-350",
+   "measured": {
+    "activity": 0.9985
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "L",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-351",
+   "measured": {
+    "activity": 0.9812
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "K",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-352",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "G",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-353",
+   "measured": {
+    "activity": 0.4049
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "S",
+    "res160": "V",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-354",
+   "measured": {
+    "activity": 0.4211
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "E",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-355",
+   "measured": {
+    "activity": 0.055
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "T",
+    "res160": "T",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-356",
+   "measured": {
+    "activity": 0.8378
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "W",
+    "res160": "E",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-357",
+   "measured": {
+    "activity": 0.6544
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "K",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-358",
+   "measured": {
+    "activity": 0.812
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "G",
+    "res160": "D",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-359",
+   "measured": {
+    "activity": 0.0196
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "I",
+    "res160": "D",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-360",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "K",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-361",
+   "measured": {
+    "activity": 0.7905
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "N",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-362",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "V",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-363",
+   "measured": {
+    "activity": 0.8397
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "L",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-364",
+   "measured": {
+    "activity": 0.1436
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "N",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.4
+   },
+   "id": "C-365",
+   "measured": {
+    "activity": 0.3162
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "V",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-366",
+   "measured": {
+    "activity": 0.7923
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "T",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-367",
+   "measured": {
+    "activity": 0.3764
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "E",
+    "res160": "E",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-368",
+   "measured": {
+    "activity": 0.1012
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "R",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-369",
+   "measured": {
+    "activity": 0.1973
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "R",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-370",
+   "measured": {
+    "activity": 0.9622
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "F",
+    "res160": "E",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-371",
+   "measured": {
+    "activity": 0.7947
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "E",
+    "res160": "S",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.3
+   },
+   "id": "C-372",
+   "measured": {
+    "activity": 0.7463
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "R",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.9
+   },
+   "id": "C-373",
+   "measured": {
+    "activity": 0.9282
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "R",
+    "res160": "L",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.6
+   },
+   "id": "C-374",
+   "measured": {
+    "activity": 0.0766
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "E",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-375",
+   "measured": {
+    "activity": 0.0252
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.2,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "K",
+    "res47": "W",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-376",
+   "measured": {
+    "activity": 0.2085
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": -2,
+    "res112": "D",
+    "res160": "E",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-377",
+   "measured": {
+    "activity": 0.6295
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "K",
+    "res160": "V",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-378",
+   "measured": {
+    "activity": 0.0771
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "I",
+    "res160": "K",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-379",
+   "measured": {
+    "activity": 0.8987
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "L",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-380",
+   "measured": {
+    "activity": 0.9036
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "V",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-381",
+   "measured": {
+    "activity": 0.427
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.6222222222222222,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "N",
+    "res160": "G",
+    "res47": "F",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-382",
+   "measured": {
+    "activity": 0.6494
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.15555555555555556,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "V",
+    "res160": "R",
+    "res47": "T",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-383",
+   "measured": {
+    "failed": true,
+    "note": "recorded: well dried"
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "N",
+    "res160": "R",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-384",
+   "measured": {
+    "activity": 0.1448
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "I",
+    "res160": "V",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.5
+   },
+   "id": "C-385",
+   "measured": {
+    "activity": 0.4522
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 2,
+    "net_charge": 0,
+    "res112": "G",
+    "res160": "I",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.6
+   },
+   "id": "C-386",
+   "measured": {
+    "activity": 0.8904
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "A",
+    "res47": "E",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-387",
+   "measured": {
+    "activity": 0.0449
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "T",
+    "res160": "R",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.9
+   },
+   "id": "C-388",
+   "measured": {
+    "activity": 0.1208
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "L",
+    "res160": "K",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-389",
+   "measured": {
+    "activity": 0.1949
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -1.0,
+    "n_mutations": 3,
+    "net_charge": 2,
+    "res112": "S",
+    "res160": "K",
+    "res47": "R",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-390",
+   "measured": {
+    "activity": 0.0
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "F",
+    "res47": "N",
+    "res47_hydrophobic": false,
+    "size160": 0.8
+   },
+   "id": "C-391",
+   "measured": {
+    "activity": 0.0381
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "V",
+    "res160": "W",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 1.0
+   },
+   "id": "C-392",
+   "measured": {
+    "activity": 0.1851
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": -1,
+    "res112": "D",
+    "res160": "G",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.1
+   },
+   "id": "C-393",
+   "measured": {
+    "activity": 0.0155
+   }
+  },
+  {
+   "features": {
+    "charge112": -1,
+    "hydro47": -0.17777777777777778,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "E",
+    "res160": "K",
+    "res47": "S",
+    "res47_hydrophobic": false,
+    "size160": 0.7
+   },
+   "id": "C-394",
+   "measured": {
+    "activity": 0.2317
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": -0.7777777777777778,
+    "n_mutations": 2,
+    "net_charge": -1,
+    "res112": "G",
+    "res160": "A",
+    "res47": "D",
+    "res47_hydrophobic": false,
+    "size160": 0.3
+   },
+   "id": "C-395",
+   "measured": {
+    "activity": 0.0118
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.9333333333333333,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "L",
+    "res160": "G",
+    "res47": "V",
+    "res47_hydrophobic": true,
+    "size160": 0.1
+   },
+   "id": "C-396",
+   "measured": {
+    "activity": 0.8279
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.8444444444444444,
+    "n_mutations": 3,
+    "net_charge": 1,
+    "res112": "F",
+    "res160": "K",
+    "res47": "L",
+    "res47_hydrophobic": true,
+    "size160": 0.7
+   },
+   "id": "C-397",
+   "measured": {
+    "activity": 0.9372
+   }
+  },
+  {
+   "features": {
+    "charge112": 0,
+    "hydro47": 0.4,
+    "n_mutations": 1,
+    "net_charge": 0,
+    "res112": "A",
+    "res160": "V",
+    "res47": "A",
+    "res47_hydrophobic": true,
+    "size160": 0.5
+   },
+   "id": "C-398",
+   "measured": {
+    "activity": 0.826
+   }
+  },
+  {
+   "features": {
+    "charge112": 1,
+    "hydro47": -0.08888888888888889,
+    "n_mutations": 3,
+    "net_charge": 0,
+    "res112": "R",
+    "res160": "D",
+    "res47": "G",
+    "res47_hydrophobic": false,
+    "size160": 0.4
+   },
+   "id": "C-399",
+   "measured": {
+    "activity": 0.259
+   }
+  }
+ ],
+ "maximize": true,
+ "metrics": [
+  "activity"
+ ],
+ "start": [
+  "C-173",
+  "C-105",
+  "C-135",
+  "C-114",
+  "C-065",
+  "C-254",
+  "C-153",
+  "C-204",
+  "C-165",
+  "C-166",
+  "C-018",
+  "C-034",
+  "C-104",
+  "C-390",
+  "C-187",
+  "C-062",
+  "C-027",
+  "C-381",
+  "C-367",
+  "C-028",
+  "C-225",
+  "C-100",
+  "C-375",
+  "C-250"
+ ],
+ "task": "protein_active_learning"
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "dbtl/round_review",
+  "title": "Round review",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["round", "per_pick", "per_hypothesis", "calibration_to_date", "shadow"],
+  "properties": {
+    "round": {"type": "integer", "minimum": 1},
+    "per_pick": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["candidate", "predicted", "observed", "in_interval", "failed"],
+        "properties": {
+          "candidate": {"type": "string"},
+          "predicted": {"type": "number"},
+          "observed": {"type": ["number", "null"]},
+          "in_interval": {"type": ["boolean", "null"]},
+          "failed": {"type": "boolean"}
+        }
+      }
+    },
+    "per_hypothesis": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["verdict", "trigger"],
+        "properties": {
+          "verdict": {"type": "string", "enum": ["supported", "weakened", "killed", "untested"]},
+          "trigger": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "calibration_to_date": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["interval_hit_rate", "n"],
+      "properties": {
+        "interval_hit_rate": {"type": ["number", "null"]},
+        "n": {"type": "integer", "minimum": 0}
+      }
+    },
+    "shadow": {
+      "type": "object",
+      "additionalProperties": {"type": ["number", "null"]}
+    }
+  }
+}

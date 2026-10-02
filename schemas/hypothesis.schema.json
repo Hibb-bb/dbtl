@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "dbtl/hypothesis",
+  "title": "Hypothesis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "statement", "reason", "evidence", "prediction", "kill_criterion", "confidence"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^H[0-9]+$"},
+    "round_opened": {"type": "integer", "minimum": 1},
+    "statement": {"type": "string", "minLength": 10},
+    "reason": {"type": "string", "minLength": 10},
+    "evidence": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1, "uniqueItems": true},
+    "prediction": {"type": "string", "minLength": 10},
+    "kill_criterion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text", "metric", "comparator", "threshold", "count", "scope"],
+      "properties": {
+        "text": {"type": "string", "minLength": 5},
+        "metric": {"type": "string", "minLength": 1},
+        "comparator": {"type": "string", "enum": ["lt", "le", "gt", "ge"]},
+        "threshold": {"type": "number"},
+        "count": {"type": "integer", "minimum": 1},
+        "scope": {
+          "type": "object",
+          "additionalProperties": false,
+          "minProperties": 1,
+          "maxProperties": 1,
+          "properties": {
+            "candidates": {"type": "array", "items": {"type": "string"}, "minItems": 1, "uniqueItems": true},
+            "all": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["feature", "op", "value"],
+                "properties": {
+                  "feature": {"type": "string", "minLength": 1},
+                  "op": {"type": "string", "enum": ["eq", "ne", "in", "gt", "ge", "lt", "le"]},
+                  "value": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "confidence": {"type": "number", "exclusiveMinimum": 0, "exclusiveMaximum": 1},
+    "status": {"type": "string", "enum": ["active", "retired", "killed"]},
+    "round_closed": {"type": ["integer", "null"]},
+    "close_verdict": {"type": ["string", "null"], "enum": ["killed", "retired", null]}
+  }
+}

@@ -1,0 +1,26 @@
+task: protein_active_learning
+backend: fake
+seed: 17
+
+rounds: 8
+batch_size: 12
+budget_experiments: 96
+
+hypotheses:
+  max_active: 3            # hard cap on live hypotheses at any time
+  min_evidence: 2          # observations each must cite
+  require_kill_number: true
+  reopen_requires_new_evidence: true
+
+batch_rules:
+  explore_floor: 0.20      # share of batch serving no hypothesis
+  discriminate_floor: 0.25 # share that must separate rival hypotheses
+  no_repeat_measured: true
+  require_interval: true   # every pick needs a predicted value + interval
+
+deliverable: ranking        # ranking | model | designs
+shadow_baselines: [random, bayes_opt]
+
+# backend-specific knobs (fake: pool_size, start_size, fail_rate, collect_delay, noise_sd;
+# v0_replay / v1_twin: dataset, and for twin noise_sd, fail_rate, queue_delay)
+backend_options: {}
