@@ -4,20 +4,29 @@
       {
         "matcher": "Write|Edit|MultiEdit|NotebookEdit",
         "hooks": [
-          {"type": "command", "command": "python3 \"$CLAUDE_PROJECT_DIR\"/hooks/guard_write.py"}
+          {
+            "type": "command",
+            "command": "f=\"${CLAUDE_PROJECT_DIR:-.}/hooks/guard_write.py\"; [ -f \"$f\" ] || f=\"hooks/guard_write.py\"; [ -f \"$f\" ] || exit 0; exec python3 \"$f\""
+          }
         ]
       },
       {
         "matcher": "Bash",
         "hooks": [
-          {"type": "command", "command": "python3 \"$CLAUDE_PROJECT_DIR\"/hooks/guard_bash.py"}
+          {
+            "type": "command",
+            "command": "f=\"${CLAUDE_PROJECT_DIR:-.}/hooks/guard_bash.py\"; [ -f \"$f\" ] || f=\"hooks/guard_bash.py\"; [ -f \"$f\" ] || exit 0; exec python3 \"$f\""
+          }
         ]
       }
     ],
     "Stop": [
       {
         "hooks": [
-          {"type": "command", "command": "sh \"$CLAUDE_PROJECT_DIR\"/hooks/stop_guard.sh"}
+          {
+            "type": "command",
+            "command": "f=\"${CLAUDE_PROJECT_DIR:-.}/hooks/stop_guard.sh\"; [ -f \"$f\" ] || f=\"hooks/stop_guard.sh\"; [ -f \"$f\" ] || exit 0; exec sh \"$f\""
+          }
         ]
       }
     ]
